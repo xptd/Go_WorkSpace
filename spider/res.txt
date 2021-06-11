@@ -1,0 +1,119 @@
+<!DOCTYPE html>           
+  
+  <!--STATUS OK-->  <head>  
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta name="description" content="百度图片使用世界前沿的人工智能技术，为用户甄选海量的高清美图，用更流畅、更快捷、更精准的搜索体验，带你去发现多彩的世界。">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
+<meta name="baidu-site-verification" content="2ltGWMzql9"/>
+ <title>百度图片-发现多彩世界</title> <link rel="shortcut icon" href="//img1.bdstatic.com/static/common/img/icon_cf1b905.png" type="image/x-icon"> <link rel="icon" sizes="any" href="//img1.bdstatic.com/static/common/img/icon_cf1b905.png">  <script>
+    void function(a,b,c,d,e,f,g){a.alogObjectName=e,a[e]=a[e]||function(){(a[e].q=a[e].q||[]).push(arguments)},a[e].l=a[e].l||+new Date,d="https:"===a.location.protocol?"https://fex.bdstatic.com"+d:"http://fex.bdstatic.com"+d;var h=!0;if(a.alogObjectConfig&&a.alogObjectConfig.sample){var i=Math.random();a.alogObjectConfig.rand=i,i>a.alogObjectConfig.sample&&(h=!1)}h&&(f=b.createElement(c),f.async=!0,f.src=d+"?v="+~(new Date/864e5)+~(new Date/864e5),g=b.getElementsByTagName(c)[0],g.parentNode.insertBefore(f,g))}(window,document,"script","/hunter/alog/alog.min.js","alog"),void function(){function a(){}window.PDC={mark:function(a,b){alog("speed.set",a,b||+new Date),alog.fire&&alog.fire("mark")},init:function(a){alog("speed.set","options",a)},view_start:a,tti:a,page_ready:a}}();
+    void function(n){var o=!1;n.onerror=function(n,e,t,c){var i=!0;return!e&&/^script error/i.test(n)&&(o?i=!1:o=!0),i&&alog("exception.send","exception",{msg:n,js:e,ln:t,col:c}),!1},alog("exception.on","catch",function(n){alog("exception.send","exception",{msg:n.msg,js:n.path,ln:n.ln,method:n.method,flag:"catch"})})}(window);
+</script>     
+   <script>
+        var Ihttps_agent_config = {"http:\/\/nssug.baidu.com":"https:\/\/sp1.baidu.com\/8qUZeT8a2gU2pMbgoY3K\/su","http:\/\/img.baidu.com":"https:\/\/gss2.bdstatic.com\/70cFsjip0QIZ8tyhnq","http:\/\/himg.bdimg.com":"https:\/\/ss1.bdstatic.com\/7Ls0a8Sm1A5BphGlnYG","http:\/\/apps.bdimg.com":"https:\/\/ss0.bdstatic.com\/9_QWf8Sm1A5BphGlnYG","http:\/\/f3.baidu.com":"https:\/\/sp3.baidu.com\/-uV1bjeh1BF3odCf","http:\/\/bzclk.baidu.com":"https:\/\/gsp0.baidu.com\/9q9JcDHa2gU2pMbgoY3K","http:\/\/img0.imgtn.bdimg.com":"https:\/\/ss0.bdstatic.com\/70cFvHSh_Q1YnxGkpoWK1HF6hhy","http:\/\/img1.imgtn.bdimg.com":"https:\/\/ss1.bdstatic.com\/70cFvXSh_Q1YnxGkpoWK1HF6hhy","http:\/\/img2.imgtn.bdimg.com":"https:\/\/ss2.bdstatic.com\/70cFvnSh_Q1YnxGkpoWK1HF6hhy","http:\/\/img3.imgtn.bdimg.com":"https:\/\/ss3.bdstatic.com\/70cFv8Sh_Q1YnxGkpoWK1HF6hhy","http:\/\/img4.imgtn.bdimg.com":"https:\/\/ss0.bdstatic.com\/70cFuHSh_Q1YnxGkpoWK1HF6hhy","http:\/\/img5.imgtn.bdimg.com":"https:\/\/ss1.bdstatic.com\/70cFuXSh_Q1YnxGkpoWK1HF6hhy","http:\/\/bdimg.share.baidu.com":"https:\/\/gss0.baidu.com\/9rA4cT8aBw9FktbgoI7O1ygwehsv","http:\/\/dispatcher.video.qiyi.com":"https:\/\/gss0.bdstatic.com\/-LsZfDe52w9JkxG9m9iS_HFjgAkrreHg-_","http:\/\/passport.bdimg.com":"https:\/\/ss0.bdstatic.com\/5LMZfyabBhJ3otebn9fN2DJv"};
+    </script> <script type="text/javascript" src="//img0.bdstatic.com/static/common/mod_6f6741d.js"></script> 
+ <link rel="stylesheet" type="text/css" href="//img1.bdstatic.com/static/common/pkg/co_e90514e.css"/><link rel="stylesheet" type="text/css" href="//img1.bdstatic.com/static/albumsdetail/pkg/albumsdetail_51084f7.css"/><link rel="stylesheet" type="text/css" href="//img1.bdstatic.com/static/common/widget/ui/slider/slider_ecce195.css"/><link rel="stylesheet" type="text/css" href="//img0.bdstatic.com/static/common/widget/ui/userInfo/userInfo_0b12a55.css"/></head>  <script> alog('speed.set', 'ht', +new Date); </script>  <body class=""> <script type="text/javascript">require.siteNS && require.siteNS(["common", "albumsdetail"]);require.resourceMap({"res":{"common:widget/ui/fmCheck/fmCheck.js":{"url":"//img1.bdstatic.com/static/common/widget/ui/fmCheck/fmCheck_e6197fc.js","deps":["common:widget/ui/base/base.js"]},"common:widget/ui/durationStat/durationStat.js":{"url":"//img0.bdstatic.com/static/common/widget/ui/durationStat/durationStat_d292e9f.js","deps":["common:widget/ui/utils/utils.js","common:widget/ui/base/base.js"]}}});</script>  
+<div class="bd-albumsdetail-wrapper" >
+<div class="bd-albumsdetail-header">
+   <a href="/" class="common-header-no-searchbar-logo"> <img src="//img0.bdstatic.com/static/common/img/baidu_image_logo_2dd9a28.png" alt="到 百度图片首页 来" title="返回 百度图片首页"> </a>  <div id="userInfo"> <a target="_blank" href="https://www.baidu.com/"></a> </div>  </div>
+<div id="bd-albumsdetail-content">
+</div>
+</div>
+  <script>
+    void function(e,t){for(var n=t.getElementsByTagName("img"),a=+new Date,i=[],o=function(){this.removeEventListener&&this.removeEventListener("load",o,!1),i.push({img:this,time:+new Date})},s=0;s< n.length;s++)!function(){var e=n[s];e.addEventListener?!e.complete&&e.addEventListener("load",o,!1):e.attachEvent&&e.attachEvent("onreadystatechange",function(){"complete"==e.readyState&&o.call(e,o)})}();alog("speed.set",{fsItems:i,fs:a})}(window,document);
+</script> 
+ <a id="common-back-top" href="javascript:;" data-title="返回顶部"> <div class="btn-inner-text"></div> </a> <a href="javascript:;" id="common-feedback-link" data-title="反馈图片"> <div class="common-feedback-text">反馈</div> </a>                      <script>
+    void function(a,b,c,d,e,f){function g(b){a.attachEvent?a.attachEvent("onload",b,!1):a.addEventListener&&a.addEventListener("load",b)}function h(a,c,d){d=d||15;var e=new Date;e.setTime((new Date).getTime()+1e3*d),b.cookie=a+"="+escape(c)+";path=/;expires="+e.toGMTString()}function i(a){var c=b.cookie.match(new RegExp("(^| )"+a+"=([^;]*)(;|$)"));return null!=c?unescape(c[2]):null}function j(){var a=i("PMS_JT");if(a){h("PMS_JT","",-1);try{a=a.match(/{["']s["']:(\d+),["']r["']:["']([\s\S]+)["']}/),a=a&&a[1]&&a[2]?{s:parseInt(a[1]),r:a[2]}:{}}catch(c){a={}}a.r&&b.referrer.replace(/#.*/,"")!=a.r||alog("speed.set","wt",a.s)}}if(a.alogObjectConfig){var k=a.alogObjectConfig.sample,l=a.alogObjectConfig.rand;d="https:"===a.location.protocol?"https://fex.bdstatic.com"+d:"http://fex.bdstatic.com"+d,k&&l&&l>k||(g(function(){alog("speed.set","lt",+new Date),e=b.createElement(c),e.async=!0,e.src=d+"?v="+~(new Date/864e5)+~(new Date/864e5),f=b.getElementsByTagName(c)[0],f.parentNode.insertBefore(e,f)}),j())}}(window,document,"script","/hunter/alog/dp.min.js");
+</script>   </body><script type="text/javascript"  src="//img0.bdstatic.com/static/common/widget/ui/base/base_a66ce51.js" ></script>
+<script type="text/javascript"  src="//img1.bdstatic.com/static/common/widget/ui/browser-storage/browser-storage_ad6bd42.js" ></script>
+<script type="text/javascript"  src="//img0.bdstatic.com/static/common/pkg/cores_936fb40.js" ></script>
+<script type="text/javascript"  src="//img1.bdstatic.com/static/common/widget/ui/juicer/juicer_59c3d50.js" ></script>
+<script type="text/javascript"  src="//img1.bdstatic.com/static/albumsdetail/pkg/albumsdetail_795f6d4.js" ></script>
+<script type="text/javascript">!function(){window.logid="12133749909341464177",require.async(["albumsdetail:widget/ui/app/app"],function(a){a.setPageInfo({word:'%E8%AE%BE%E8%AE%A1%E7%B4%A0%E6%9D%90',hasResult:"1",albumTab:'%E5%BB%BA%E7%AD%91',setId:"1",title:"中国古建-户牖",logo:"https:\/\/emoji.cdn.bcebos.com\/yunque\/pc_vcg.png",coverUrl:"https:\/\/t7.baidu.com\/it\/u=2235283139,2108773862&fm=193&f=GIF",totalNum:"161",albumLinkRn:"30",linkData:"[{\x22pid\x22:1,\x22width\x22:1200,\x22height\x22:800,\x22oriwidth\x22:1200,\x22oriheight\x22:800,\x22thumbnailUrl\x22:\x22https:\\\/\\\/t7.baidu.com\\\/it\\\/u=2235283139,2108773862&fm=193&f=GIF\x22,\x22fromUrl\x22:\x22https:\\\/\\\/www.vcg.com\\\/creative\\\/809771200\x22,\x22contSign\x22:\x222235283139,2108773862\x22},{\x22pid\x22:2,\x22width\x22:1200,\x22height\x22:843,\x22oriwidth\x22:1200,\x22oriheight\x22:843,\x22thumbnailUrl\x22:\x22https:\\\/\\\/t7.baidu.com\\\/it\\\/u=2369985169,1283503597&fm=193&f=GIF\x22,\x22fromUrl\x22:\x22https:\\\/\\\/www.vcg.com\\\/creative\\\/814817072\x22,\x22contSign\x22:\x222369985169,1283503597\x22},{\x22pid\x22:3,\x22width\x22:1200,\x22height\x22:800,\x22oriwidth\x22:1200,\x22oriheight\x22:800,\x22thumbnailUrl\x22:\x22https:\\\/\\\/t7.baidu.com\\\/it\\\/u=2159461460,31424906&fm=193&f=GIF\x22,\x22fromUrl\x22:\x22https:\\\/\\\/www.vcg.com\\\/creative\\\/803072152\x22,\x22contSign\x22:\x222159461460,31424906\x22},{\x22pid\x22:4,\x22width\x22:1200,\x22height\x22:831,\x22oriwidth\x22:1200,\x22oriheight\x22:831,\x22thumbnailUrl\x22:\x22https:\\\/\\\/t7.baidu.com\\\/it\\\/u=3881051708,1318727812&fm=193&f=GIF\x22,\x22fromUrl\x22:\x22https:\\\/\\\/www.vcg.com\\\/creative\\\/811938255\x22,\x22contSign\x22:\x223881051708,1318727812\x22},{\x22pid\x22:5,\x22width\x22:1200,\x22height\x22:797,\x22oriwidth\x22:1200,\x22oriheight\x22:797,\x22thumbnailUrl\x22:\x22https:\\\/\\\/t7.baidu.com\\\/it\\\/u=340402538,2113214724&fm=193&f=GIF\x22,\x22fromUrl\x22:\x22https:\\\/\\\/www.vcg.com\\\/creative\\\/810123536\x22,\x22contSign\x22:\x22340402538,2113214724\x22},{\x22pid\x22:6,\x22width\x22:800,\x22height\x22:1200,\x22oriwidth\x22:800,\x22oriheight\x22:1200,\x22thumbnailUrl\x22:\x22https:\\\/\\\/t7.baidu.com\\\/it\\\/u=2270040441,2487274433&fm=193&f=GIF\x22,\x22fromUrl\x22:\x22https:\\\/\\\/www.vcg.com\\\/creative\\\/806128502\x22,\x22contSign\x22:\x222270040441,2487274433\x22},{\x22pid\x22:7,\x22width\x22:1200,\x22height\x22:800,\x22oriwidth\x22:1200,\x22oriheight\x22:800,\x22thumbnailUrl\x22:\x22https:\\\/\\\/t7.baidu.com\\\/it\\\/u=3707959938,1767557661&fm=193&f=GIF\x22,\x22fromUrl\x22:\x22https:\\\/\\\/www.vcg.com\\\/creative\\\/806727803\x22,\x22contSign\x22:\x223707959938,1767557661\x22},{\x22pid\x22:8,\x22width\x22:1200,\x22height\x22:800,\x22oriwidth\x22:1200,\x22oriheight\x22:800,\x22thumbnailUrl\x22:\x22https:\\\/\\\/t7.baidu.com\\\/it\\\/u=1662785792,1988645283&fm=193&f=GIF\x22,\x22fromUrl\x22:\x22https:\\\/\\\/www.vcg.com\\\/creative\\\/809782266\x22,\x22contSign\x22:\x221662785792,1988645283\x22},{\x22pid\x22:9,\x22width\x22:1200,\x22height\x22:939,\x22oriwidth\x22:1200,\x22oriheight\x22:939,\x22thumbnailUrl\x22:\x22https:\\\/\\\/t7.baidu.com\\\/it\\\/u=2668600378,287765073&fm=193&f=GIF\x22,\x22fromUrl\x22:\x22https:\\\/\\\/www.vcg.com\\\/creative\\\/812466924\x22,\x22contSign\x22:\x222668600378,287765073\x22},{\x22pid\x22:10,\x22width\x22:1200,\x22height\x22:497,\x22oriwidth\x22:1200,\x22oriheight\x22:497,\x22thumbnailUrl\x22:\x22https:\\\/\\\/t7.baidu.com\\\/it\\\/u=2523065508,2507614151&fm=193&f=GIF\x22,\x22fromUrl\x22:\x22https:\\\/\\\/www.vcg.com\\\/creative\\\/805604546\x22,\x22contSign\x22:\x222523065508,2507614151\x22},{\x22pid\x22:11,\x22width\x22:1200,\x22height\x22:800,\x22oriwidth\x22:1200,\x22oriheight\x22:800,\x22thumbnailUrl\x22:\x22https:\\\/\\\/t7.baidu.com\\\/it\\\/u=2956998430,2007898161&fm=193&f=GIF\x22,\x22fromUrl\x22:\x22https:\\\/\\\/www.vcg.com\\\/creative\\\/805192947\x22,\x22contSign\x22:\x222956998430,2007898161\x22},{\x22pid\x22:12,\x22width\x22:800,\x22height\x22:1200,\x22oriwidth\x22:800,\x22oriheight\x22:1200,\x22thumbnailUrl\x22:\x22https:\\\/\\\/t7.baidu.com\\\/it\\\/u=3579606410,1842102808&fm=193&f=GIF\x22,\x22fromUrl\x22:\x22https:\\\/\\\/www.vcg.com\\\/creative\\\/805193491\x22,\x22contSign\x22:\x223579606410,1842102808\x22},{\x22pid\x22:13,\x22width\x22:801,\x22height\x22:1200,\x22oriwidth\x22:801,\x22oriheight\x22:1200,\x22thumbnailUrl\x22:\x22https:\\\/\\\/t7.baidu.com\\\/it\\\/u=4275438998,1992261538&fm=193&f=GIF\x22,\x22fromUrl\x22:\x22https:\\\/\\\/www.vcg.com\\\/creative\\\/812227554\x22,\x22contSign\x22:\x224275438998,1992261538\x22},{\x22pid\x22:14,\x22width\x22:1200,\x22height\x22:801,\x22oriwidth\x22:1200,\x22oriheight\x22:801,\x22thumbnailUrl\x22:\x22https:\\\/\\\/t7.baidu.com\\\/it\\\/u=518598656,90177411&fm=193&f=GIF\x22,\x22fromUrl\x22:\x22https:\\\/\\\/www.vcg.com\\\/creative\\\/811921074\x22,\x22contSign\x22:\x22518598656,90177411\x22},{\x22pid\x22:15,\x22width\x22:1200,\x22height\x22:800,\x22oriwidth\x22:1200,\x22oriheight\x22:800,\x22thumbnailUrl\x22:\x22https:\\\/\\\/t7.baidu.com\\\/it\\\/u=1813417221,3120900974&fm=193&f=GIF\x22,\x22fromUrl\x22:\x22https:\\\/\\\/www.vcg.com\\\/creative\\\/815563083\x22,\x22contSign\x22:\x221813417221,3120900974\x22},{\x22pid\x22:16,\x22width\x22:1200,\x22height\x22:800,\x22oriwidth\x22:1200,\x22oriheight\x22:800,\x22thumbnailUrl\x22:\x22https:\\\/\\\/t7.baidu.com\\\/it\\\/u=1899472867,79723314&fm=193&f=GIF\x22,\x22fromUrl\x22:\x22https:\\\/\\\/www.vcg.com\\\/creative\\\/807495586\x22,\x22contSign\x22:\x221899472867,79723314\x22},{\x22pid\x22:17,\x22width\x22:800,\x22height\x22:1200,\x22oriwidth\x22:800,\x22oriheight\x22:1200,\x22thumbnailUrl\x22:\x22https:\\\/\\\/t7.baidu.com\\\/it\\\/u=1256437539,1765657812&fm=193&f=GIF\x22,\x22fromUrl\x22:\x22https:\\\/\\\/www.vcg.com\\\/creative\\\/802427854\x22,\x22contSign\x22:\x221256437539,1765657812\x22},{\x22pid\x22:18,\x22width\x22:1200,\x22height\x22:797,\x22oriwidth\x22:1200,\x22oriheight\x22:797,\x22thumbnailUrl\x22:\x22https:\\\/\\\/t7.baidu.com\\\/it\\\/u=2012679462,3624919817&fm=193&f=GIF\x22,\x22fromUrl\x22:\x22https:\\\/\\\/www.vcg.com\\\/creative\\\/804300583\x22,\x22contSign\x22:\x222012679462,3624919817\x22},{\x22pid\x22:19,\x22width\x22:798,\x22height\x22:1200,\x22oriwidth\x22:798,\x22oriheight\x22:1200,\x22thumbnailUrl\x22:\x22https:\\\/\\\/t7.baidu.com\\\/it\\\/u=4218307640,715278519&fm=193&f=GIF\x22,\x22fromUrl\x22:\x22https:\\\/\\\/www.vcg.com\\\/creative\\\/812460703\x22,\x22contSign\x22:\x224218307640,715278519\x22},{\x22pid\x22:20,\x22width\x22:1200,\x22height\x22:800,\x22oriwidth\x22:1200,\x22oriheight\x22:800,\x22thumbnailUrl\x22:\x22https:\\\/\\\/t7.baidu.com\\\/it\\\/u=1195974344,125480278&fm=193&f=GIF\x22,\x22fromUrl\x22:\x22https:\\\/\\\/www.vcg.com\\\/creative\\\/806724700\x22,\x22contSign\x22:\x221195974344,125480278\x22},{\x22pid\x22:21,\x22width\x22:1200,\x22height\x22:801,\x22oriwidth\x22:1200,\x22oriheight\x22:801,\x22thumbnailUrl\x22:\x22https:\\\/\\\/t7.baidu.com\\\/it\\\/u=3894934805,284281388&fm=193&f=GIF\x22,\x22fromUrl\x22:\x22https:\\\/\\\/www.vcg.com\\\/creative\\\/815817734\x22,\x22contSign\x22:\x223894934805,284281388\x22},{\x22pid\x22:22,\x22width\x22:1200,\x22height\x22:803,\x22oriwidth\x22:1200,\x22oriheight\x22:803,\x22thumbnailUrl\x22:\x22https:\\\/\\\/t7.baidu.com\\\/it\\\/u=3984357371,3367165902&fm=193&f=GIF\x22,\x22fromUrl\x22:\x22https:\\\/\\\/www.vcg.com\\\/creative\\\/808343272\x22,\x22contSign\x22:\x223984357371,3367165902\x22},{\x22pid\x22:23,\x22width\x22:1200,\x22height\x22:800,\x22oriwidth\x22:1200,\x22oriheight\x22:800,\x22thumbnailUrl\x22:\x22https:\\\/\\\/t7.baidu.com\\\/it\\\/u=3874881121,2586319498&fm=193&f=GIF\x22,\x22fromUrl\x22:\x22https:\\\/\\\/www.vcg.com\\\/creative\\\/803071393\x22,\x22contSign\x22:\x223874881121,2586319498\x22},{\x22pid\x22:24,\x22width\x22:1200,\x22height\x22:582,\x22oriwidth\x22:1200,\x22oriheight\x22:582,\x22thumbnailUrl\x22:\x22https:\\\/\\\/t7.baidu.com\\\/it\\\/u=3147138845,734598676&fm=193&f=GIF\x22,\x22fromUrl\x22:\x22https:\\\/\\\/www.vcg.com\\\/creative\\\/810915219\x22,\x22contSign\x22:\x223147138845,734598676\x22},{\x22pid\x22:25,\x22width\x22:1200,\x22height\x22:584,\x22oriwidth\x22:1200,\x22oriheight\x22:584,\x22thumbnailUrl\x22:\x22https:\\\/\\\/t7.baidu.com\\\/it\\\/u=713910384,2037213194&fm=193&f=GIF\x22,\x22fromUrl\x22:\x22https:\\\/\\\/www.vcg.com\\\/creative\\\/810384314\x22,\x22contSign\x22:\x22713910384,2037213194\x22},{\x22pid\x22:26,\x22width\x22:1200,\x22height\x22:800,\x22oriwidth\x22:1200,\x22oriheight\x22:800,\x22thumbnailUrl\x22:\x22https:\\\/\\\/t7.baidu.com\\\/it\\\/u=4009435214,1254684911&fm=193&f=GIF\x22,\x22fromUrl\x22:\x22https:\\\/\\\/www.vcg.com\\\/creative\\\/812508732\x22,\x22contSign\x22:\x224009435214,1254684911\x22},{\x22pid\x22:27,\x22width\x22:1200,\x22height\x22:800,\x22oriwidth\x22:1200,\x22oriheight\x22:800,\x22thumbnailUrl\x22:\x22https:\\\/\\\/t7.baidu.com\\\/it\\\/u=2318396983,2198287262&fm=193&f=GIF\x22,\x22fromUrl\x22:\x22https:\\\/\\\/www.vcg.com\\\/creative\\\/814011283\x22,\x22contSign\x22:\x222318396983,2198287262\x22},{\x22pid\x22:28,\x22width\x22:1200,\x22height\x22:801,\x22oriwidth\x22:1200,\x22oriheight\x22:801,\x22thumbnailUrl\x22:\x22https:\\\/\\\/t7.baidu.com\\\/it\\\/u=3712864992,3201348705&fm=193&f=GIF\x22,\x22fromUrl\x22:\x22https:\\\/\\\/www.vcg.com\\\/creative\\\/811973379\x22,\x22contSign\x22:\x223712864992,3201348705\x22},{\x22pid\x22:29,\x22width\x22:799,\x22height\x22:1200,\x22oriwidth\x22:799,\x22oriheight\x22:1200,\x22thumbnailUrl\x22:\x22https:\\\/\\\/t7.baidu.com\\\/it\\\/u=2804722962,3017628850&fm=193&f=GIF\x22,\x22fromUrl\x22:\x22https:\\\/\\\/www.vcg.com\\\/creative\\\/802727655\x22,\x22contSign\x22:\x222804722962,3017628850\x22},{\x22pid\x22:30,\x22width\x22:1200,\x22height\x22:982,\x22oriwidth\x22:1200,\x22oriheight\x22:982,\x22thumbnailUrl\x22:\x22https:\\\/\\\/t7.baidu.com\\\/it\\\/u=3791357045,1100406653&fm=193&f=GIF\x22,\x22fromUrl\x22:\x22https:\\\/\\\/www.vcg.com\\\/creative\\\/807879740\x22,\x22contSign\x22:\x223791357045,1100406653\x22}]"}),a.init(),a.run()});}();
+!function(){require.async(['common:widget/ui/base/base','common:widget/ui/userInfo/userInfo'], function( $, UserInfoControl){
+    var userInfoBox = new UserInfoControl('', {
+
+        albumUrl: '\/search\/albumslist?tn=albumslist&word=%E8%AE%BE%E8%AE%A1%E7%B4%A0%E6%9D%90&album_tab=人物&rn=15&fr=albumsdetail_nav',
+        notice: {
+            text: '在这里可以查看更多合辑哟～'
+        }
+    });
+    userInfoBox.init(function() {});
+});
+}();
+!function(){    require.async(['common:widget/ui/backtop/backTop']);
+
+    require.async(['common:widget/ui/feedback/feedback'], function (feedback) {
+        var callbacks = {};
+        var containerId = 'common-feedback-link';
+        feedback.init(callbacks, containerId);
+    });
+}();
+!function(){    require.async(['common:widget/ui/monitorRequest/monitorRequest'],function(monitorRequest){
+	var userid = "";
+	var q = "%E8%AE%BE%E8%AE%A1%E7%B4%A0%E6%9D%90";
+	var tn = "albumsdetail";
+	var host = "//imgstat.baidu.com/4.gif";
+	var hostSweb = "//image.baidu.com/pv/pv2.gif";
+    var rsw = "";
+
+    if(location.href !== document.referrer && document.referrer != ""){
+        rsw = "&rs=";
+    }
+    else{
+        rsw = '';
+    }
+    var samplekey = window.samplekey || '';
+    var img = window["__log__" + (new Date()).getTime()*Math.random()] = document.createElement('img');
+    monitorRequest( host + "?logid=&ie=utf-8&q="+ q +"&userid=" + userid + "&samplekey=" + encodeURIComponent(samplekey) + "&event_type=pv&tn=" + tn + "&tpl=page.page&fr=albumslist" + rsw);
+    var imgSweb = window["__log__" + (new Date()).getTime()*Math.random()] = document.createElement('img');
+    imgSweb.src = hostSweb + "?ie=utf-8&q="+ q +"&userid=" + userid + "&samplekey=" + encodeURIComponent(samplekey) + "&event_type=pv&tn=" + tn + "&tpl=&fr=albumslist" + rsw + '&' + new Date() * Math.random();
+    });
+}();
+!function(){    require.async(["common:widget/ui/fmCheck/fmCheck"],function(fmCheck){
+        fmCheck.init();
+    });
+}();
+!function(){require.async(['common:widget/ui/base/base'], function($) {
+    var userFrom = '';
+
+    var elem = document.createElement('a');
+    elem.href = document.referrer;
+    var hostname = elem['hostname'];
+    var urlfr = 'albumslist';
+    var chenjin = '';
+    var urlword = '%E8%AE%BE%E8%AE%A1%E7%B4%A0%E6%9D%90';
+
+    if (hostname !== 'image.baidu.com') {
+        if (urlfr) {
+            userFrom += urlfr;
+            if (chenjin === '1') {
+                userFrom += 'chenjin1';
+            } else if (chenjin === '0') {
+                var wordList = ["%E7%BE%8E%E5%A5%B3%E5%9B%BE%E7%89%87",
+                    "%E6%89%8B%E6%9C%BA%E5%A3%81%E7%BA%B8",
+                    "%E6%89%8B%E6%9C%BA%E5%A3%81%E7%BA%B8%E5%9B%BE%E7%89%87",
+                    "%E5%A4%B4%E5%83%8F",
+                    "%E5%A4%B4%E5%83%8F%E5%9B%BE%E7%89%87"];
+                if (wordList.indexOf(urlword) >= 0) {
+                    userFrom += 'chenjin0';
+                }
+            }
+        } else {
+            userFrom = hostname;
+        }
+    } else {
+        userFrom = $.cookie('userFrom') || '';
+    }
+
+    if (userFrom.length > 0) {
+        var date = new Date();
+        date.setTime(date.getTime() + (10 * 60 * 1000));
+        $.cookie('userFrom', userFrom, {path: '/', expires: date, domain: '.baidu.com'});
+    } else {
+        $.cookie('userFrom', null, {path: '/', domain: '.baidu.com'});
+    }
+});
+}();
+!function(){    }();</script>   </html> <!--17986650250660110090040809-->
+<script> var _trace_page_logid = 1798665025; </script>
